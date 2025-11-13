@@ -3,4 +3,4 @@
 This game was made by using a tutorial by ClearCode
 <br>
 <br>
-Tutotial: https://youtu.be/QFvqStqPCRU?si=OfboohhRcPGCsv6A
+Tutorial: https://youtu.be/QFvqStqPCRU?si=OfboohhRcPGCsv6A
